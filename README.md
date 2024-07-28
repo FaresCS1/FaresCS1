@@ -1,10 +1,16 @@
 ### Hi there 👋, Fares omar
 #### Design and Development
-![Design and Development](<a href="https://www.freepik.com/free-photo/representation-user-experience-interface-design-smartphone_38047596.htm#from_view=detail_alsolike">Image by freepik</a>)
+![Design and Development]
 
 Computer Science graduate with a passion for mobile app development and UI/UX design. Eager to collaborate and innovate to craft exceptional digital experiences that make a difference
 
-Skills: FLUTTER  / JS / HTML / CSS
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaresCS1)](https://github.com/anuraghazra/github-readme-stats)
+
+*Skill
+-FLUTTER 📱 
+-JS 💻  
+-HTML 🌐
+-CSS 🎨
 
 
 
